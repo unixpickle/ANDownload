@@ -1,0 +1,20 @@
+To create a download
+
+download = [[ANDownload alloc] initWithURL:[NSURL URLWithString:kTestURL]];
+[download setDelegate:self];
+
+start or resume a download
+[download resume];
+
+pause a download
+[download pause];
+
+get the progress of a download
+[sender downloadProgress];
+
+delegate methods (required)
+
+- (void)downloadAN:(id)sender didFailWithError:(NSError *)error;
+- (void)downloadAN:(id)sender didFinishDownloadingData:(NSData *)data;
+- (void)downloadANDidResume:(id)sender;
+- (void)downloadANProgressChanged:(id)sender;
