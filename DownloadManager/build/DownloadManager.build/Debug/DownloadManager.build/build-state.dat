@@ -1,0 +1,298 @@
+TDownloadManager
+v7
+r0
+t306795064.918520
+cCheck dependencies
+cProcessPCH /var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DownloadManager_Prefix-hihzixgpyxuemqdahiajwobcvulv/DownloadManager_Prefix.pch.gch DownloadManager_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DownloadManager.build/Debug/DownloadManager.build/Objects-normal/x86_64/DownloadManager.o /Users/alex/Desktop/DownloadManager/DownloadManager.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DownloadManager.build/Debug/DownloadManager.build/Objects-normal/x86_64/ANDownload.o /Users/alex/Desktop/DownloadManager/ANDownload.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DownloadManager.build/Debug/DownloadManager.build/Objects-normal/x86_64/ANDownloadManager.o /Users/alex/Desktop/DownloadManager/ANDownloadManager.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DownloadManager.build/Debug/DownloadManager.build/Objects-normal/x86_64/MainClass.o /Users/alex/Desktop/DownloadManager/MainClass.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/alex/Desktop/DownloadManager/build/Debug/DownloadManager normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004BF4701900000000000000EE
+t1274310681
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B90FBB700000000000013E6
+t1267792823
+s5094
+
+N/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C11730A0000000000B37440
+t1276211978
+s11760704
+
+N/Users/alex/Desktop/DownloadManager/ANDownload.h
+c000000004C9917920000000000000434
+t1285101458
+s1076
+i<Foundation/Foundation.h>
+
+N/Users/alex/Desktop/DownloadManager/ANDownload.m
+c000000004C9925640000000000000D88
+t1285104996
+s3464
+i"ANDownload.h"
+
+N/Users/alex/Desktop/DownloadManager/ANDownloadManager.h
+c000000004C99179D00000000000002FF
+t1285101469
+s767
+i<Foundation/Foundation.h>
+i"ANDownload.h"
+
+N/Users/alex/Desktop/DownloadManager/ANDownloadManager.m
+c000000004C99185D000000000000053B
+t1285101661
+s1339
+i"ANDownloadManager.h"
+
+N/Users/alex/Desktop/DownloadManager/DownloadManager.m
+c000000004C991AD00000000000000123
+t1285102288
+s291
+i<Foundation/Foundation.h>
+i"MainClass.h"
+
+N/Users/alex/Desktop/DownloadManager/DownloadManager_Prefix.pch
+c000000004C990D7300000000000000AC
+t1285098867
+s172
+i<Foundation/Foundation.h>
+
+N/Users/alex/Desktop/DownloadManager/MainClass.h
+c000000004C991A58000000000000019D
+t1285102168
+s413
+i<Foundation/Cocoa.h>
+
+N/Users/alex/Desktop/DownloadManager/MainClass.m
+c000000004C991A9E000000000000040A
+t1285102238
+s1034
+i"MainClass.h"
+
+N/Users/alex/Desktop/DownloadManager/build/Debug/DownloadManager
+t1285102264
+s27112
+
+N/Users/alex/Desktop/DownloadManager/build/DownloadManager.build/Debug/DownloadManager.build/Objects-normal/x86_64/ANDownload.o
+t1285101997
+s30160
+
+N/Users/alex/Desktop/DownloadManager/build/DownloadManager.build/Debug/DownloadManager.build/Objects-normal/x86_64/ANDownloadManager.o
+t1285101997
+s19576
+
+N/Users/alex/Desktop/DownloadManager/build/DownloadManager.build/Debug/DownloadManager.build/Objects-normal/x86_64/DownloadManager.LinkFileList
+c000000004C9919AD0000000000000207
+t1285101997
+s519
+
+N/Users/alex/Desktop/DownloadManager/build/DownloadManager.build/Debug/DownloadManager.build/Objects-normal/x86_64/DownloadManager.o
+t1285102264
+s8028
+
+N/Users/alex/Desktop/DownloadManager/build/DownloadManager.build/Debug/DownloadManager.build/Objects-normal/x86_64/MainClass.o
+t1285102255
+s16540
+
+N/Users/alex/xCode/ANDownload/DownloadManager/ANDownload.h
+c000000004C9917920000000000000434
+t1285101458
+s1076
+i<Foundation/Foundation.h>
+
+N/Users/alex/xCode/ANDownload/DownloadManager/ANDownload.m
+c000000004C9925640000000000000D88
+t1285104996
+s3464
+i"ANDownload.h"
+
+N/Users/alex/xCode/ANDownload/DownloadManager/ANDownloadManager.h
+c000000004C99179D00000000000002FF
+t1285101469
+s767
+i<Foundation/Foundation.h>
+i"ANDownload.h"
+
+N/Users/alex/xCode/ANDownload/DownloadManager/ANDownloadManager.m
+c000000004C99185D000000000000053B
+t1285101661
+s1339
+i"ANDownloadManager.h"
+
+N/Users/alex/xCode/ANDownload/DownloadManager/DownloadManager.m
+c000000004C991AD00000000000000123
+t1285102288
+s291
+i<Foundation/Foundation.h>
+i"MainClass.h"
+
+N/Users/alex/xCode/ANDownload/DownloadManager/DownloadManager_Prefix.pch
+c000000004C990D7300000000000000AC
+t1285098867
+s172
+i<Foundation/Foundation.h>
+
+N/Users/alex/xCode/ANDownload/DownloadManager/MainClass.h
+c000000004C991A58000000000000019D
+t1285102168
+s413
+i<Foundation/Foundation.h>
+i"ANDownloadManager.h"
+
+N/Users/alex/xCode/ANDownload/DownloadManager/MainClass.m
+c000000004C991A9E000000000000040A
+t1285102238
+s1034
+i"MainClass.h"
+
+N/Users/alex/xCode/ANDownload/DownloadManager/build/Debug/DownloadManager
+t1285102264
+s27112
+
+N/Users/alex/xCode/ANDownload/DownloadManager/build/DownloadManager.build/Debug/DownloadManager.build/Objects-normal/x86_64/ANDownload.o
+t1285101997
+s30160
+
+N/Users/alex/xCode/ANDownload/DownloadManager/build/DownloadManager.build/Debug/DownloadManager.build/Objects-normal/x86_64/ANDownloadManager.o
+t1285101997
+s19576
+
+N/Users/alex/xCode/ANDownload/DownloadManager/build/DownloadManager.build/Debug/DownloadManager.build/Objects-normal/x86_64/DownloadManager.LinkFileList
+c000000004C9919AD0000000000000207
+t1285101997
+s519
+
+N/Users/alex/xCode/ANDownload/DownloadManager/build/DownloadManager.build/Debug/DownloadManager.build/Objects-normal/x86_64/DownloadManager.o
+t1285102264
+s8028
+
+N/Users/alex/xCode/ANDownload/DownloadManager/build/DownloadManager.build/Debug/DownloadManager.build/Objects-normal/x86_64/MainClass.o
+t1285102255
+s16540
+
+N/Xcodes/Developer11072010/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Xcodes/Developer11072010/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C23AA0400000000000013E6
+t1277405700
+s5094
+
+N/var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DownloadManager_Prefix-glauhpuilstaijatjfsaqjymtnwv/DownloadManager_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DownloadManager_Prefix-hihzixgpyxuemqdahiajwobcvulv/DownloadManager_Prefix.pch.gch
+t1285100691
+s41401104
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies306795064#306795064#0(0"0(0#1#0"8636209184#0"0#
+
+CCompileC build/DownloadManager.build/Debug/DownloadManager.build/Objects-normal/x86_64/ANDownload.o /Users/alex/Desktop/DownloadManager/ANDownload.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s306794797.241406
+e306794797.764695
+r1
+xCompileC
+xbuild/DownloadManager.build/Debug/DownloadManager.build/Objects-normal/x86_64/ANDownload.o
+x/Users/alex/Desktop/DownloadManager/ANDownload.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@56"Compile /Users/alex/Desktop/DownloadManager/ANDownload.m306794797#306794797#0(0"0(0#0#48"/Users/alex/Desktop/DownloadManager/ANDownload.m8639402208#1589"    cd /Users/alex/Desktop/DownloadManager    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/alex/Desktop/DownloadManager/build/DownloadManager.build/Debug/DownloadManager.build/DownloadManager-generated-files.hmap -I/Users/alex/Desktop/DownloadManager/build/DownloadManager.build/Debug/DownloadManager.build/DownloadManager-own-target-headers.hmap -I/Users/alex/Desktop/DownloadManager/build/DownloadManager.build/Debug/DownloadManager.build/DownloadManager-all-target-headers.hmap -iquote /Users/alex/Desktop/DownloadManager/build/DownloadManager.build/Debug/DownloadManager.build/DownloadManager-project-headers.hmap -F/Users/alex/Desktop/DownloadManager/build/Debug -I/Users/alex/Desktop/DownloadManager/build/Debug/include -I/Users/alex/Desktop/DownloadManager/build/DownloadManager.build/Debug/DownloadManager.build/DerivedSources/x86_64 -I/Users/alex/Desktop/DownloadManager/build/DownloadManager.build/Debug/DownloadManager.build/DerivedSources -include /var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DownloadManager_Prefix-hihzixgpyxuemqdahiajwobcvulv/DownloadManager_Prefix.pch -c /Users/alex/Desktop/DownloadManager/ANDownload.m -o /Users/alex/Desktop/DownloadManager/build/DownloadManager.build/Debug/DownloadManager.build/Objects-normal/x86_64/ANDownload.o0#
+
+CCompileC build/DownloadManager.build/Debug/DownloadManager.build/Objects-normal/x86_64/ANDownload.o /Users/alex/xCode/ANDownload/DownloadManager/ANDownload.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/DownloadManager.build/Debug/DownloadManager.build/Objects-normal/x86_64/ANDownloadManager.o /Users/alex/Desktop/DownloadManager/ANDownloadManager.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s306794797.482994
+e306794798.047035
+r1
+xCompileC
+xbuild/DownloadManager.build/Debug/DownloadManager.build/Objects-normal/x86_64/ANDownloadManager.o
+x/Users/alex/Desktop/DownloadManager/ANDownloadManager.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/alex/Desktop/DownloadManager/ANDownloadManager.m306794797#306794798#0(0"0(0#0#55"/Users/alex/Desktop/DownloadManager/ANDownloadManager.m8639311328#1603"    cd /Users/alex/Desktop/DownloadManager    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/alex/Desktop/DownloadManager/build/DownloadManager.build/Debug/DownloadManager.build/DownloadManager-generated-files.hmap -I/Users/alex/Desktop/DownloadManager/build/DownloadManager.build/Debug/DownloadManager.build/DownloadManager-own-target-headers.hmap -I/Users/alex/Desktop/DownloadManager/build/DownloadManager.build/Debug/DownloadManager.build/DownloadManager-all-target-headers.hmap -iquote /Users/alex/Desktop/DownloadManager/build/DownloadManager.build/Debug/DownloadManager.build/DownloadManager-project-headers.hmap -F/Users/alex/Desktop/DownloadManager/build/Debug -I/Users/alex/Desktop/DownloadManager/build/Debug/include -I/Users/alex/Desktop/DownloadManager/build/DownloadManager.build/Debug/DownloadManager.build/DerivedSources/x86_64 -I/Users/alex/Desktop/DownloadManager/build/DownloadManager.build/Debug/DownloadManager.build/DerivedSources -include /var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DownloadManager_Prefix-hihzixgpyxuemqdahiajwobcvulv/DownloadManager_Prefix.pch -c /Users/alex/Desktop/DownloadManager/ANDownloadManager.m -o /Users/alex/Desktop/DownloadManager/build/DownloadManager.build/Debug/DownloadManager.build/Objects-normal/x86_64/ANDownloadManager.o0#
+
+CCompileC build/DownloadManager.build/Debug/DownloadManager.build/Objects-normal/x86_64/ANDownloadManager.o /Users/alex/xCode/ANDownload/DownloadManager/ANDownloadManager.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/DownloadManager.build/Debug/DownloadManager.build/Objects-normal/x86_64/DownloadManager.o /Users/alex/Desktop/DownloadManager/DownloadManager.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s306795064.592104
+e306795064.897787
+r1
+xCompileC
+xbuild/DownloadManager.build/Debug/DownloadManager.build/Objects-normal/x86_64/DownloadManager.o
+x/Users/alex/Desktop/DownloadManager/DownloadManager.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/alex/Desktop/DownloadManager/DownloadManager.m306795064#306795064#0(0"0(0#0#53"/Users/alex/Desktop/DownloadManager/DownloadManager.m8642719008#1599"    cd /Users/alex/Desktop/DownloadManager    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/alex/Desktop/DownloadManager/build/DownloadManager.build/Debug/DownloadManager.build/DownloadManager-generated-files.hmap -I/Users/alex/Desktop/DownloadManager/build/DownloadManager.build/Debug/DownloadManager.build/DownloadManager-own-target-headers.hmap -I/Users/alex/Desktop/DownloadManager/build/DownloadManager.build/Debug/DownloadManager.build/DownloadManager-all-target-headers.hmap -iquote /Users/alex/Desktop/DownloadManager/build/DownloadManager.build/Debug/DownloadManager.build/DownloadManager-project-headers.hmap -F/Users/alex/Desktop/DownloadManager/build/Debug -I/Users/alex/Desktop/DownloadManager/build/Debug/include -I/Users/alex/Desktop/DownloadManager/build/DownloadManager.build/Debug/DownloadManager.build/DerivedSources/x86_64 -I/Users/alex/Desktop/DownloadManager/build/DownloadManager.build/Debug/DownloadManager.build/DerivedSources -include /var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DownloadManager_Prefix-hihzixgpyxuemqdahiajwobcvulv/DownloadManager_Prefix.pch -c /Users/alex/Desktop/DownloadManager/DownloadManager.m -o /Users/alex/Desktop/DownloadManager/build/DownloadManager.build/Debug/DownloadManager.build/Objects-normal/x86_64/DownloadManager.o0#
+
+CCompileC build/DownloadManager.build/Debug/DownloadManager.build/Objects-normal/x86_64/DownloadManager.o /Users/alex/xCode/ANDownload/DownloadManager/DownloadManager.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/DownloadManager.build/Debug/DownloadManager.build/Objects-normal/x86_64/MainClass.o /Users/alex/Desktop/DownloadManager/MainClass.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s306795055.122021
+e306795055.562040
+r1
+xCompileC
+xbuild/DownloadManager.build/Debug/DownloadManager.build/Objects-normal/x86_64/MainClass.o
+x/Users/alex/Desktop/DownloadManager/MainClass.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@55"Compile /Users/alex/Desktop/DownloadManager/MainClass.m306795055#306795055#0(0"0(0#0#47"/Users/alex/Desktop/DownloadManager/MainClass.m8639451584#1587"    cd /Users/alex/Desktop/DownloadManager    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/alex/Desktop/DownloadManager/build/DownloadManager.build/Debug/DownloadManager.build/DownloadManager-generated-files.hmap -I/Users/alex/Desktop/DownloadManager/build/DownloadManager.build/Debug/DownloadManager.build/DownloadManager-own-target-headers.hmap -I/Users/alex/Desktop/DownloadManager/build/DownloadManager.build/Debug/DownloadManager.build/DownloadManager-all-target-headers.hmap -iquote /Users/alex/Desktop/DownloadManager/build/DownloadManager.build/Debug/DownloadManager.build/DownloadManager-project-headers.hmap -F/Users/alex/Desktop/DownloadManager/build/Debug -I/Users/alex/Desktop/DownloadManager/build/Debug/include -I/Users/alex/Desktop/DownloadManager/build/DownloadManager.build/Debug/DownloadManager.build/DerivedSources/x86_64 -I/Users/alex/Desktop/DownloadManager/build/DownloadManager.build/Debug/DownloadManager.build/DerivedSources -include /var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DownloadManager_Prefix-hihzixgpyxuemqdahiajwobcvulv/DownloadManager_Prefix.pch -c /Users/alex/Desktop/DownloadManager/MainClass.m -o /Users/alex/Desktop/DownloadManager/build/DownloadManager.build/Debug/DownloadManager.build/Objects-normal/x86_64/MainClass.o0#
+
+CCompileC build/DownloadManager.build/Debug/DownloadManager.build/Objects-normal/x86_64/MainClass.o /Users/alex/xCode/ANDownload/DownloadManager/MainClass.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CLd /Users/alex/Desktop/DownloadManager/build/Debug/DownloadManager normal x86_64
+s306795064.897863
+e306795064.918469
+r1
+xLd
+x/Users/alex/Desktop/DownloadManager/build/Debug/DownloadManager
+xnormal
+xx86_64
+lSLF07#2@68"Link /Users/alex/Desktop/DownloadManager/build/Debug/DownloadManager306795064#306795064#0(0"0(0#0#0"8649858336#537"    cd /Users/alex/Desktop/DownloadManager    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/alex/Desktop/DownloadManager/build/Debug -F/Users/alex/Desktop/DownloadManager/build/Debug -filelist /Users/alex/Desktop/DownloadManager/build/DownloadManager.build/Debug/DownloadManager.build/Objects-normal/x86_64/DownloadManager.LinkFileList -mmacosx-version-min=10.6 -framework Foundation -o /Users/alex/Desktop/DownloadManager/build/Debug/DownloadManager0#
+
+CLd /Users/alex/xCode/ANDownload/DownloadManager/build/Debug/DownloadManager normal x86_64
+r0
+
+CProcessPCH /var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DownloadManager_Prefix-glauhpuilstaijatjfsaqjymtnwv/DownloadManager_Prefix.pch.gch DownloadManager_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DownloadManager_Prefix-hihzixgpyxuemqdahiajwobcvulv/DownloadManager_Prefix.pch.gch DownloadManager_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s306793487.902185
+e306793491.226810
+r1
+xProcessPCH
+x/var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DownloadManager_Prefix-hihzixgpyxuemqdahiajwobcvulv/DownloadManager_Prefix.pch.gch
+xDownloadManager_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@37"Precompile DownloadManager_Prefix.pch306793487#306793491#0(0"0(0#0#62"/Users/alex/Desktop/DownloadManager/DownloadManager_Prefix.pch7011370564529713152#1478"    cd /Users/alex/Desktop/DownloadManager    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/alex/Desktop/DownloadManager/build/DownloadManager.build/Debug/DownloadManager.build/DownloadManager-generated-files.hmap -I/Users/alex/Desktop/DownloadManager/build/DownloadManager.build/Debug/DownloadManager.build/DownloadManager-own-target-headers.hmap -I/Users/alex/Desktop/DownloadManager/build/DownloadManager.build/Debug/DownloadManager.build/DownloadManager-all-target-headers.hmap -iquote /Users/alex/Desktop/DownloadManager/build/DownloadManager.build/Debug/DownloadManager.build/DownloadManager-project-headers.hmap -F/Users/alex/Desktop/DownloadManager/build/Debug -I/Users/alex/Desktop/DownloadManager/build/Debug/include -I/Users/alex/Desktop/DownloadManager/build/DownloadManager.build/Debug/DownloadManager.build/DerivedSources/x86_64 -I/Users/alex/Desktop/DownloadManager/build/DownloadManager.build/Debug/DownloadManager.build/DerivedSources -c /Users/alex/Desktop/DownloadManager/DownloadManager_Prefix.pch -o /var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DownloadManager_Prefix-hihzixgpyxuemqdahiajwobcvulv/DownloadManager_Prefix.pch.gch0#
+
